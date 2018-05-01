@@ -1,0 +1,7 @@
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab2\lab2\secondProgram\secondProgram\bin\Debug\secondProgram.exe.config
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab2\lab2\secondProgram\secondProgram\bin\Debug\secondProgram.exe
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab2\lab2\secondProgram\secondProgram\bin\Debug\secondProgram.pdb
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab2\lab2\secondProgram\secondProgram\obj\Debug\secondProgram.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab2\lab2\secondProgram\secondProgram\obj\Debug\secondProgram.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab2\lab2\secondProgram\secondProgram\obj\Debug\secondProgram.exe
+C:\Users\Michelle\Desktop\SCHOOL\Second term\Web programming 2\Assignments\Lab2\lab2\secondProgram\secondProgram\obj\Debug\secondProgram.pdb
